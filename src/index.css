@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* body {
+  background-image: url('./assets/imgs/landing/landing-background.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
